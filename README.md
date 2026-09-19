@@ -1,14 +1,8 @@
-# 🚀 Nova Programming Language v1.0 (Official Release)
-
-Nova is a structured, secure, middle-level programming language. It was designed as an ideal learning bridge between the logical simplicity of Python and the structural rigidity of lower-level languages like C++ and JavaScript.
-
-The compiler translates `.nova` source code into optimized Python code invisibly through a standalone executable.
-
----
+# 🚀 Nova's Extension for VS Code
 
 ## 💻 VS Code Extension & Syntax Highlighting
 
-Nova 1.0 comes with its own official Visual Studio Code extension to provide full syntax highlighting (colors) for your code blocks, comments, strings, and numbers, as well as automatic bracket/quotation auto-closing.
+Nova 1.1 comes with its own official Visual Studio Code extension to provide full syntax highlighting (colors) for your code blocks, comments, strings, and numbers, as well as automatic bracket/quotation auto-closing and code running.
 
 ### How to Install the Extension:
 1. Download the `nova-lang-1.0.0.vsix` file from the zip file `nova-lang-v1.0`
